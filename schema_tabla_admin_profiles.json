@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "id",
+    "Type": "int"
+  },
+  {
+    "Name": "admision_to_admin_date",
+    "Type": "date"
+  },
+  {
+    "Name": "admision_to_admin_time",
+    "Type": "string"
+  },
+  {
+    "Name": "total_questions_answered",
+    "Type": "int"
+  },
+  {
+    "Name": "is_active",
+    "Type": "string"
+  },
+  {
+    "Name": "created_at",
+    "Type": "timestamp"
+  },
+  {
+    "Name": "updated_at",
+    "Type": "timestamp"
+  }
+]

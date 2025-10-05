@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "id",
+    "Type": "int"
+  },
+  {
+    "Name": "email",
+    "Type": "string"
+  },
+  {
+    "Name": "password",
+    "Type": "string"
+  },
+  {
+    "Name": "firstname",
+    "Type": "string"
+  },
+  {
+    "Name": "lastname",
+    "Type": "string"
+  },
+  {
+    "Name": "username",
+    "Type": "string"
+  },
+  {
+    "Name": "role",
+    "Type": "string"
+  },
+  {
+    "Name": "creation_date",
+    "Type": "date"
+  },
+  {
+    "Name": "created_at",
+    "Type": "timestamp"
+  },
+  {
+    "Name": "updated_at",
+    "Type": "timestamp"
+  }
+]
